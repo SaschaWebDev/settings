@@ -1,0 +1,104 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "'STACKr Code', 'Fira Code', Consolas",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "editor.cursorBlinking": "expand",
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#ffff4d96",
+    "editorCursor.foreground": "#ffff4da9"
+  },
+  "editor.minimap.size": "fit",
+  "git.confirmSync": false,
+  "editor.formatOnSave": true,
+  "bracket-pair-colorizer-2.colors": ["#9FBF45", "#429ED6", "#CC2F7B"],
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.colorTheme": "codeSTACKr Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.06)",
+    "rgba(127,255,127,0.06)",
+    "rgba(255,127,255,0.06)",
+    "rgba(79,236,236,0.06)"
+  ],
+  "debug.toolBarLocation": "docked",
+  "explorer.confirmDragAndDrop": false,
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": false,
+      "emojiDecoratorsEnabled": false
+    },
+    "scminput": true,
+    "git-commit": true,
+    "javascript": true,
+    "javascriptreact": true,
+    "html": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.suggest.insertMode": "replace",
+  "editor.suggest.showStatusBar": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.shell.linux": "/bin/zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "tabnine.experimentalAutoImports": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.sideBar.location": "right",
+  /* "workbench.colorCustomizations": {
+    "terminal.background": "#1D2021",
+    "terminal.foreground": "#A89984",
+    "terminalCursor.background": "#A89984",
+    "terminalCursor.foreground": "#A89984",
+    "terminal.ansiBlack": "#1D2021",
+    "terminal.ansiBlue": "#571515",
+    "terminal.ansiBrightBlack": "#665C54",
+    "terminal.ansiBrightBlue": "#0D6678",
+    "terminal.ansiBrightCyan": "#8BA59B",
+    "terminal.ansiBrightGreen": "#95C085",
+    "terminal.ansiBrightMagenta": "#8F4673",
+    "terminal.ansiBrightRed": "#FB543F",
+    "terminal.ansiBrightWhite": "#FDF4C1",
+    "terminal.ansiBrightYellow": "#FAC03B",
+    "terminal.ansiCyan": "#8BA59B",
+    "terminal.ansiGreen": "#95C085",
+    "terminal.ansiMagenta": "#8F4673",
+    "terminal.ansiRed": "#FB543F",
+    "terminal.ansiWhite": "#A89984",
+    "terminal.ansiYellow": "#FAC03B"
+  } */
+  "workbench.colorCustomizations": {
+    "terminal.background": "#20201D",
+    "terminal.foreground": "#A6A28C",
+    "terminalCursor.background": "#A6A28C",
+    "terminalCursor.foreground": "#A6A28C",
+    "terminal.ansiBlack": "#20201D",
+    "terminal.ansiBlue": "#6684E1",
+    "terminal.ansiBrightBlack": "#7D7A68",
+    "terminal.ansiBrightBlue": "#6684E1",
+    "terminal.ansiBrightCyan": "#1FAD83",
+    "terminal.ansiBrightGreen": "#60AC39",
+    "terminal.ansiBrightMagenta": "#B854D4",
+    "terminal.ansiBrightRed": "#D73737",
+    "terminal.ansiBrightWhite": "#FEFBEC",
+    "terminal.ansiBrightYellow": "#AE9513",
+    "terminal.ansiCyan": "#1FAD83",
+    "terminal.ansiGreen": "#60AC39",
+    "terminal.ansiMagenta": "#B854D4",
+    "terminal.ansiRed": "#D73737",
+    "terminal.ansiWhite": "#A6A28C",
+    "terminal.ansiYellow": "#AE9513"
+  }
+}
